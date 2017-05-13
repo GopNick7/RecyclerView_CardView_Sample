@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">RecyclerView_CardView_Sample</string>
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+    <string name="four">Four</string>
+    <string name="five">Five</string>
+    <string name="six">Six</string>
+    <string name="seven">Seven</string>
+    <string name="eight">Eight</string>
+    <string name="nine">Nine</string>
+
+    <string name="one1">1</string>
+    <string name="two2">2</string>
+    <string name="three3">3</string>
+    <string name="four4">4</string>
+    <string name="five5">5</string>
+    <string name="six6">6</string>
+    <string name="seven7">7</string>
+    <string name="eight8">8</string>
+    <string name="nine9">9</string>
 </resources>
